@@ -1,6 +1,6 @@
 body {
     background: #b9e9d1;
-    color: #51925c;
+    color: #000a02;
     font-family: ' serif';
     font-size: 17px;
     font-weight: lighter;
@@ -10,7 +10,7 @@ body {
     font-family: 'Roboto', sans-serif;
   }
   h1 {
-    color: #1838ad;
+    color: rgb(131, 72, 72);
     font-size: 32px;
     font-weight: 900;
     font-family: sans-serif;
@@ -39,7 +39,6 @@ body {
   }
   .card-white{background-color: white;
     padding: 10px 30px 30px 30px;
-    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
     border-radius: 4px;
     margin: 20px 0px;
     text-align: center;
@@ -56,10 +55,10 @@ body {
   display: inline-block;
   padding: 0px 20px;
 }
-.list-inline i {
-  font-size: 50px;
-  color: rgb(230, 230, 230);
-}
+i {
+  font-size: 150px;
+  color: rgb(67, 65, 65);
+  }
 .img-circle {
   border-radius: 50%;
 }
